@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/read-easy/",
+    "build": "vite build --base=/85_js_dolphin-vr/",
     "preview": "vite preview"
   },
   "devDependencies": {
